@@ -1,0 +1,53 @@
+body{
+    background-color: orangered;
+}
+
+.jumbotron{
+    background-color: orangered;
+    color : white;
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+
+.img2{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.paragraph1{
+    background-color: black;
+    color: white;
+    margin: 0px 50px 0px 50px;
+    padding: 0px 20px 0px 20px;
+    grid-template-columns: 65% 35%;
+}
+.container{
+    color: white;
+}
+
+.block{
+    background-color: black;
+    color: white;
+    padding: 0px 20px 0px 20px;
+}
+
+.btn{
+    background-color: orangered;
+}
+
+.button{
+    color : white;
+}
+
+.fa-whatsapp{
+    color: green;
+}
+
+.fa-facebook-official{
+    color : blue;
+}
+
+.fa-instagram{
+    color : plum;
+}
+
